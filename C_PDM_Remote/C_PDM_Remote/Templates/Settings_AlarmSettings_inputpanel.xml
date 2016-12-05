@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<inputPanel visualStyle="Custom" font="Segoe UI, 9pt">
+  <toolTipSettings />
+  <groupHeader name="inputGroupHeader1" height="4" />
+  <button name="Mainf_Form_Settings_AlarmSettings_Save_button" text="Save Settings" tabStop="True" break="Row" height="30" width="100" />
+  <groupHeader name="Main_Form_Settings_AlarmSettings_MaximumAplitude_header" text="Maximum Amplitude" foreColor0x="FFFFFFFF" backColor0x="FF404040" />
+  <label name="Main_Form_Settings_AlarmSettings_MaximumAplitude_EnableAlarm_label" text="Enable Alarm:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_MaximumAplitude_EnableAlarm_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_AlarmThreshold_label" text="Alarm Threshold (mV):" width="150" />
+  <numericBox name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_AlarmThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <label name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_EnableWarning_label" text="Enable Warning:" width="150" />
+  <checkBox name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_EnableWarning_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_WarningThreshold_label" text="Warning Threshold (mV):" width="150" />
+  <numericBox name="Mainf_Form_Settings_AlarmSettings_MaximumAplitude_WarningThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <groupHeader name="Main_Form_Settings_AlarmSettings_DischargeRate_header" text="Discharge Rate" foreColor0x="FFFFFFFF" backColor0x="FF404040" />
+  <label name="Main_Form_Settings_AlarmSettings_DischargeRate_EnableAlarm_label" text="Enable Alarm:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_DischargeRate_EnableAlarm_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_DischargeRate_AlarmThreshold_label" text="Alarm Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_DischargeRate_AlarmThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <label name="Main_Form_Settings_AlarmSettings_DischargeRate_EnableWarning_label" text="Enable Warning:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_DischargeRate_EnableWarning_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_DischargeRate_WarningThreshold_label" text="Warning Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_DischargeRate_WarningThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <groupHeader name="Main_Form_Settings_AlarmSettings_EventCount_header" text="Event Count" foreColor0x="FFFFFFFF" backColor0x="FF404040" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_EnableAlarm_label" text="Enable Alarm:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_EventCount_EnableAlarm_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_AlarmThreshold_label" text="Alarm Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_EventCount_AlarmThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_EnableWarning_label" text="Enable Warning:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_EventCount_EnableWarning_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_WarningThreshold_label" text="Warning Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_EventCount_WarningThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <groupHeader name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_header" text="Pulse Count" foreColor0x="FFFFFFFF" backColor0x="FF404040" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_EnableAlarm_label" text="Enable Alarm:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_EnableAlarm_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_AlarmThreshold_label" text="Alarm Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_AlarmThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_EnableWarning_label" text="Enable Warning:" width="150" />
+  <checkBox name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_EnableWarning_checkbox" text="Enable?" tabStop="True" break="Row" />
+  <label name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_WarningThreshold_label" text="Warning Threshold (mV):" width="150" />
+  <numericBox name="Main_Form_Settings_AlarmSettings_EventCount_PulseCount_WarningThreshold_numericbox" tabStop="True" break="Row" width="200" showSpinButtons="False" textAlign="Center" />
+</inputPanel>
